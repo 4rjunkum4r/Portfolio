@@ -1,13 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Homepage from './Homepage';
+import WebsiteNavbar from './Components/WebsiteNavbar';
 
 function App() {
-  return (
-    <div>
-      <Homepage/>
-    </div>
+  return (<></>
   );
 }
 
 export default App;
-
