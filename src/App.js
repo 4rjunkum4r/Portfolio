@@ -1,8 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import WebsiteNavbar from './Components/WebsiteNavbar';
+import Homepage from './Components/Homepage';
+import { Component } from 'react';
 
 function App() {
-  return (<></>
+  return (
+  <Homepage/>
   );
 }
 
